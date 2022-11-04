@@ -3,6 +3,7 @@
 /node_modules
 
 # Logs
+
 logs
 *.log
 npm-debug.log*
@@ -17,6 +18,7 @@ lerna-debug.log*
 # Tests
 /coverage
 /.nyc_output
+sdcs
 
 # IDEs and editors
 /.idea
@@ -34,3 +36,4 @@ lerna-debug.log*
 !.vscode/launch.json
 !.vscode/extensions.json
 .vercel
+sdc
