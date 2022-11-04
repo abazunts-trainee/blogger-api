@@ -5,7 +5,7 @@
 # Logs
 
 logs
-
+dscsdc
 *.log
 npm-debug.log*
 pnpm-debug.log*
